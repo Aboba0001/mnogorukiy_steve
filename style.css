@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+     margin: 0;
+    padding: 0;
+   height:100vh;
+   width: 100%;
+   background-image: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1614391307_1-p-temnii-fon-mainkraft-1.png);  
+   color:#5c33ff ;
+background-size: cover;
+   display: flex;
+align-items: center;
+justify-content: center;}
+main{
+   box-sizing: border-box;
+   width: 100%;
+   background-color: floralwhite;
+    margin: 0;
+    padding-top: 50px;}
+
+
+
+.pipuka{
+
+      text-align : center;
+}
+.aboba{
+    box-sizing: border-box;
+    padding-left:80px ;
+    padding-right:80px ;
+    text-align:center ;
+}
+.iiiiii{
+    width: 70vw;
+    
+}
+footer
+{
+    box-sizing: border-box;
+background-color: #072654;
+color: white;
+padding: 30px;
+}    
+a{
+    color: white;
+}
